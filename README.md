@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Tic Tac Toe Game - A demo of ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+
+This project was created to show some basic concepts and mechanics of how ReactJS works.
+
+It's a tic-tac-toe game with the ability to move through history and start over from any step.
+
+Below are the detailed information of how to run this demo.
 
 ## Available Scripts
 
@@ -39,7 +45,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Learn More about ReactJS
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
